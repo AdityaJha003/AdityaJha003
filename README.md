@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajha003&label=Profile%20views&color=0e75b6&style=flat" alt="adityajha003" /> </p>
 
-- 🌱 I’m currently learning **Devops and Website Optimisation**
+- 🌱 I’m currently building **Optimised Softwares through my internship**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaJha003](https://github.com/AdityaJha003)
 
