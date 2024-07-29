@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jha.aditya1608@gmail.com**
 
-- ⚡ Fun fact **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.**
+- ⚡ Fun fact :  **TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.**
 
 
 <h3 align="left">Connect with me:</h3>
