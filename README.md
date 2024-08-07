@@ -104,6 +104,9 @@
     <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
     </a>
+    <a href="https://www.office.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft Office" width="40" height="40"/>
+    </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityajha003&show_icons=true&locale=en&layout=compact" alt="adityajha003" /></p>
