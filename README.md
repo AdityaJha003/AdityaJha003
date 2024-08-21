@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **VueJS** and building projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdityaJha003](https://github.com/AdityaJha003)
+- 👨‍💻 Dive into my projects at [https://github.com/AdityaJha003](https://github.com/AdityaJha003)
 
 - 📫 How to reach me **jha.aditya1608@gmail.com**
 
